@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ali.<br>💻 BackEnd Engineer | Java | Spring Boot<br>📫 Reach: www.linkedin.com/in/ali-syed-181065279
+👋 Hi, I'm Ali.<br>💻 BackEnd Engineer | Java | Spring Boot<br>
 
 
 ## 🌐 Socials:
